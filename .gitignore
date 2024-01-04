@@ -1,0 +1,27 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE specific files
+*.csproj.user
+*.cache
+*.vs/
+*.nupkg
+
+# NuGet Packages
+packages/
+
+# ReSharper
+_ReSharper.caches
+*_ReSharper*/
+
+# Logs and databases
+*.log
+*.ldf
+*.mdf
